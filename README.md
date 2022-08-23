@@ -4,7 +4,8 @@
 <br>
 <br>
 <br>
-[![yoonssrong's GitHub stats](https://github-readme-stats.vercel.app/api?username=yoonssrong&theme=onedark&show_icons=true&layout=compact)](https://github.com/yoonssrong/github-readme-stats)
+
+[![yoonssrong's GitHub stats](https://github-readme-stats.vercel.app/api?username=yoonssrong&theme=onedark&show_icons=true)](https://github.com/yoonssrong/github-readme-stats)
 
 
 
