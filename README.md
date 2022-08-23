@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=yoonssrong's%20profile&fontSize=40&theme=dark)
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=yoonssrong's%20profile&fontSize=50&theme=radical)
 
 ### Hi there 👋
 
