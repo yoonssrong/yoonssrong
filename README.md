@@ -1,8 +1,10 @@
-![header](https://capsule-render.vercel.app/api?type=rounded&color=gradient&text=yoonssrong's%20profilef%20&height=300&fontSize=100&textBg=true)
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=yoonssrong's%20profile&fontSize=90)
+
+### Hi there 👋
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 
-### Hi there 👋
+
 
 <!--
 **yoonssrong/yoonssrong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
