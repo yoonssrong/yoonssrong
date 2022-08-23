@@ -2,7 +2,7 @@
 
 ### Hi there 👋
 
-[![yoonssrong's GitHub stats](https://github-readme-stats.vercel.app/api?username=yoonssrong)](https://github.com/yoonssrong/github-readme-stats)
+[![yoonssrong's GitHub stats](https://github-readme-stats.vercel.app/api?username=yoonssrong&theme=highcontrast)](https://github.com/yoonssrong/github-readme-stats)
 
 
 
